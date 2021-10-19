@@ -1,1 +1,1 @@
-# floralynk_mini_v_1_firmware
+# floralynk_mini_firmware
